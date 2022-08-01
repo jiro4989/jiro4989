@@ -8,4 +8,4 @@
 | Birthday | 1995 |
 | Place of birth | Japan |
 | Job | SRE |
-| Skill | Go, Nim, Bash, Java, Kotlin, Python, Terraform, CloudFormation |
+| Skill | Go, Nim, Bash, Java, Kotlin, Python, Terraform, CloudFormation, Ansible |
