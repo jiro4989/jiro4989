@@ -8,4 +8,6 @@
 | Birthday | 1995 |
 | Place of birth | Japan |
 | Job | SRE |
-| Skill | Programming (Go, Nim, Bash, Java, Kotlin, Python), IaC (Terraform, CloudFormation, Ansible), Cloud Infra (AWS) |
+| Skill (Programming) | Go, Nim, Bash, Java, Kotlin, Python |
+| Skill (Cloud infra) | AWS |
+| Skill (IaC) | Terraform, CloudFormation, Ansible |
