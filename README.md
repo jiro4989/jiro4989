@@ -11,3 +11,7 @@
 | Skill (Programming) | Go, Nim, Bash, Java, Kotlin, Python |
 | Skill (Cloud infra) | AWS |
 | Skill (IaC) | Terraform, CloudFormation, Ansible |
+
+## Blog
+
+https://jiro4989.github.io/
