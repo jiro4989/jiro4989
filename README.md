@@ -14,4 +14,4 @@
 
 ## Blog
 
-https://jiro4989.github.io/
+https://scrapbox.io/jiro4989/
